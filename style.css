@@ -1,0 +1,101 @@
+.navbar{
+    color: #000;
+    background-color: #78a8bf;
+    padding:0px 200px;
+}
+
+.navbar .nav-link{
+    color:rgb(255, 255, 255) ;
+    margin-left:50px;
+    font-weight:500;
+    padding: 15px;
+
+    
+}
+.active{
+    background: #1894cf;
+    color: #000000;
+    border-radius: 10px;
+}
+.border_btn{
+    border-bottom: #00ecff solid 2px !important;
+
+}
+
+a.nav-link:hover{
+color: 00ecff;
+border-bottom: #007fff solid 2px;
+background-color: rgb(205, 223, 233)
+      }
+
+ .nav-link:hover{
+    color:#00eeff ;
+
+}
+
+.navbar-brand img{
+    width:50px;
+    border-radius:75%;
+}
+
+.navbar-nav{
+    margin-left: 150px;
+}
+
+.about{
+    text-align: center;
+    padding: 20px;
+}
+
+.aboutus{
+    background-color: #d7d7d7;
+    padding: 50px;
+}
+
+.footer{
+    background-color: #ffffff9e;
+    padding: 50px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+
+.contact{
+    padding: 20px;
+    background-color: #d7d7d7;
+    text-align: center;
+}
+
+.form_t{
+    margin: 20px;
+}
+
+.blogg{
+    padding: 50px;
+}
+
+.blogg_1{
+    background-color: #d7d7d7;
+}
+
+button{
+  width: 10%;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    background: #2563eb;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    
+}
+
+
+button:hover {
+  background: #00a2ff;
+}
+
